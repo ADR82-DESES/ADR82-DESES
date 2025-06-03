@@ -1,6 +1,6 @@
 - 👋 Hi, this is @ADR82-DESES
-- 👀 I’m interested in Material & Energy System Optimization Models ⚡and CCUS and Synthetic Energy Fuels
-- 🌱 I’m and always be learning Life Cycle Assessment, optimization, coding
+- 👀 I’m interested in Material and Energy System Optimization Models ⚡, CCUS, and Synthetic Energy Fuels
+- 🌱 I’m always learning Life Cycle Assessment, optimization, and coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me EMAIL @ // DOMINGUEZA @ UNICAN.ES //
 
